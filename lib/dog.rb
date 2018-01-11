@@ -7,6 +7,10 @@ class Dog
   def name
     @name
   end
+
+  def name = (new name)
+    @name = new_name
+  end
+
 end
 
-fido = Dog.new
