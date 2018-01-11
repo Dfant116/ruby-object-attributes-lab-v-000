@@ -27,6 +27,3 @@ end
 
 
 fido = Dog.new
-snoopy.breed = "Beagle"
-
-
